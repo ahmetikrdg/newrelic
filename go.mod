@@ -23,6 +23,7 @@ require (
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/newrelic/go-agent v3.15.2+incompatible // indirect
+	github.com/newrelic/go-agent/v3/integrations/logcontext/nrlogrusplugin v1.0.1 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
